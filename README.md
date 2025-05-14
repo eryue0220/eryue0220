@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- 
 ![eryue0220's Github stats](https://github-readme-stats.vercel.app/api?username=eryue0220&count_private=true&show_icons=true&theme=dracula)
+-->

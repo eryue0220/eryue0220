@@ -1,7 +1,11 @@
 ### Hi there 👋
 
+![eryue0220's Github stats](https://github-readme-stats-fast.vercel.app/api?username=eryue0220&show_icons=true&theme=dracula)
+
 <!--
 **eryue0220/eryue0220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![eryue0220's Github stats](https://github-readme-stats-fast.vercel.app/api?username=eryue0220&theme=dracula)
 
 Here are some ideas to get you started:
 
@@ -13,8 +17,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-<!-- 
-![eryue0220's Github stats](https://github-readme-stats.vercel.app/api?username=eryue0220&count_private=true&show_icons=true&theme=dracula)
 -->

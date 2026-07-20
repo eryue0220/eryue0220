@@ -18,7 +18,7 @@ Turn the minimal profile README into a clear **showcase** page in **English**, s
 ## Structure
 
 1. **About** — short intro
-2. **Skills** — centered technology icon grid ([profile-technology-icons](https://github.com/marwin1991/profile-technology-icons))
+2. **Skills** — centered technology icon grid (`profile-technology-icons` + `skill-icons`)
 3. **Featured Projects** — 2 repos + optional OSS note
 4. **GitHub Stats** — existing stats image
 5. **Connect** — Twitter
@@ -33,7 +33,7 @@ Interested in tooling, build systems, and CSS infrastructure.
 
 ### Skills
 
-Replace shields badges with this centered icon grid (icons from `marwin1991/profile-technology-icons`):
+Centered icon grid mixing `marwin1991/profile-technology-icons` and `tandpfun/skill-icons` (raw SVG/PNG URLs). PostgreSQL uses the skill-icons Dark variant once (no duplicate).
 
 ```html
 <div align="center">
@@ -53,10 +53,15 @@ Replace shields badges with this centered icon grid (icons from `marwin1991/prof
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vite.png" alt="Vite" title="Vite"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/turborepo.png" alt="Turborepo" title="Turborepo"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rust.png" alt="Rust" title="Rust"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/githubactions.png" alt="GitHub Actions" title="GitHub Actions"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/playwright.png" alt="Playwright" title="Playwright"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JQuery.svg" alt="jQuery" title="jQuery"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Pnpm-Dark.svg" alt="pnpm" title="pnpm"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" alt="PostgreSQL" title="PostgreSQL"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Redis-Dark.svg" alt="Redis" title="Redis"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/RollupJS-Dark.svg" alt="RollupJS" title="RollupJS"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Sentry.svg" alt="Sentry" title="Sentry"/></code>
 </div>
 ```
 

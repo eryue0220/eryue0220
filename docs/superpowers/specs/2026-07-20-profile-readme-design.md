@@ -78,7 +78,7 @@ Centered icon grid mixing `marwin1991/profile-technology-icons` and `tandpfun/sk
 | [unplugin-stylex](https://github.com/eryue0220/unplugin-stylex) | StyleX integration for Vite, esbuild, webpack, rollup, and rspack |
 | [postcss-go](https://github.com/eryue0220/postcss-go) | High-performance PostCSS-compatible CSS processor in Go |
 
-Optional one-liner: also contributes to [heym](https://github.com/heymrun/heym) and tooling such as [rslint](https://github.com/web-infra-dev/rslint).
+Optional one-liner: also contributes to [heym](https://github.com/heymrun/heym), [eslint-plugin-jest](https://github.com/jest-community/eslint-plugin-jest), and tooling such as [rslint](https://github.com/web-infra-dev/rslint).
 
 ### GitHub Stats
 

@@ -17,7 +17,7 @@ Turn the minimal profile README into a clear **showcase** page in **English**, s
 
 ## Structure
 
-1. **About** — short intro
+1. **About** — short intro + [profile views counter](https://github.com/antonkomarev/github-profile-views-counter)
 2. **Skills** — centered technology icon grid (`profile-technology-icons` + `skill-icons`)
 3. **Featured Projects** — 2 repos + optional OSS note
 4. **GitHub Stats** — existing stats image
@@ -30,6 +30,12 @@ Turn the minimal profile README into a clear **showcase** page in **English**, s
 Hi, I'm **eryue0220**.  
 I contribute to open source and work mainly with **JavaScript / TypeScript / Rust**, while learning **Go**.  
 Interested in tooling, build systems, and CSS infrastructure.
+
+Profile views badge ([antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter)), placed under the intro:
+
+```md
+![Profile views](https://komarev.com/ghpvc/?username=eryue0220&style=flat-square)
+```
 
 ### Skills
 
@@ -97,3 +103,4 @@ Keep:
 - Profile page reads as a coherent showcase in one scroll
 - Sections are scannable; no leftover GitHub template comments
 - Stats still render; links resolve to real repos/profile
+- Profile views counter image loads for `eryue0220`

@@ -1,6 +1,6 @@
 ### Hi, I'm **eryue0220**
 
-I contribute to open source and work mainly with **JavaScript / TypeScript / Rust**, while learning **Go**.  
+I contribute to open source and work mainly with **JavaScript / TypeScript / Rust**, while learning **Go** and **Python**.
 Interested in tooling, build systems, and CSS infrastructure.
 
 ![Profile views](https://komarev.com/ghpvc/?username=eryue0220&style=flat-square)
@@ -49,6 +49,10 @@ Also contributes to tooling such as [rslint](https://github.com/web-infra-dev/rs
 ### Connect
 
 <p align="center">
+  <a href="mailto:eryue0220@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/shigang-chan-7693395b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <img src="https://img.shields.io/badge/Discord-eryue0220-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: eryue0220" title="Discord: eryue0220"/>
+  <img src="https://img.shields.io/badge/WeChat-this__is__your__wechat-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat: this_is_your_wechat" title="WeChat: this_is_your_wechat"/>
   <a href="https://eryue0220.github.io"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/></a>
   <a href="https://twitter.com/Cin_0220"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
 </p>

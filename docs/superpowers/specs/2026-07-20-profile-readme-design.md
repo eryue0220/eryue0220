@@ -90,38 +90,32 @@ Keep:
 
 ### Connect
 
-Centered row of [awesome-badges](https://github.com/envoy1084/awesome-badges)-style shields (`for-the-badge`). Keep Twitter; add Gmail, LinkedIn, Discord, WeChat, Website.
+Centered row of [awesome-badges](https://github.com/envoy1084/awesome-badges)-style shields (`for-the-badge`).
 
 ```md
 <p align="center">
-  <a href="mailto:TODO_EMAIL"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="TODO_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="TODO_DISCORD_URL"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
-  <a href="TODO_WECHAT_URL"><img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat"/></a>
-  <a href="TODO_WEBSITE_URL"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/></a>
+  <a href="mailto:eryue0220@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/shigang-chan-7693395b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <img src="https://img.shields.io/badge/Discord-eryue0220-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: eryue0220" title="Discord: eryue0220"/>
+  <img src="https://img.shields.io/badge/WeChat-this__is__your__wechat-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat: this_is_your_wechat" title="WeChat: this_is_your_wechat"/>
+  <a href="https://eryue0220.github.io"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/></a>
   <a href="https://twitter.com/Cin_0220"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
 </p>
 ```
 
-Replace `TODO_*` with real destinations before shipping the README.
-
-### Notes on destinations
-
-| Badge | Typical link |
-|-------|----------------|
-| Gmail | `mailto:you@example.com` |
-| LinkedIn | profile URL |
-| Discord | invite or user profile URL |
-| WeChat | QR image / contact page URL (plain WeChat ID has no deep link) |
-| Website | personal site URL |
-| Twitter | `https://twitter.com/Cin_0220` (already known) |
+| Badge | Destination |
+|-------|-------------|
+| Gmail | `mailto:eryue0220@gmail.com` |
+| LinkedIn | `https://www.linkedin.com/in/shigang-chan-7693395b/` |
+| Discord | username `eryue0220` (shown on badge; no deep link) |
+| WeChat | ID `this_is_your_wechat` (shown on badge; no deep link) |
+| Website | `https://eryue0220.github.io` |
+| Twitter | `https://twitter.com/Cin_0220` |
 
 ## Out of scope
 
 - WakaTime / lowlighter metrics workflows
 - Extra stats cards (top languages, streak, etc.) unless requested
-- Blog / website link (none set on profile) — website badge pending user URL
-- Shipping Connect badges without real `TODO_*` destinations
 
 ## Success criteria
 

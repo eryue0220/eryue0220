@@ -19,7 +19,7 @@ Turn the minimal profile README into a clear **showcase** page in **English**, s
 
 1. **About** — short intro
 2. **Tech Stack** — shields.io badges
-3. **Featured Projects** — 3 repos + optional OSS note
+3. **Featured Projects** — 2 repos + optional OSS note
 4. **GitHub Stats** — existing stats image
 5. **Connect** — Twitter
 
@@ -42,7 +42,6 @@ Interested in tooling, build systems, and CSS infrastructure.
 |---------|--------|
 | [unplugin-stylex](https://github.com/eryue0220/unplugin-stylex) | StyleX integration for Vite, esbuild, webpack, rollup, and rspack |
 | [postcss-go](https://github.com/eryue0220/postcss-go) | High-performance PostCSS-compatible CSS processor in Go |
-| [webpack-proxy-plugin](https://github.com/eryue0220/webpack-proxy-plugin) | Webpack proxy plugin |
 
 Optional one-liner: also contributes to tooling such as [rslint](https://github.com/web-infra-dev/rslint).
 

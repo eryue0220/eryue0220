@@ -21,7 +21,7 @@ Turn the minimal profile README into a clear **showcase** page in **English**, s
 2. **Skills** — centered technology icon grid (`profile-technology-icons` + `skill-icons`)
 3. **Featured Projects** — 2 repos + optional OSS note
 4. **GitHub Stats** — existing stats image
-5. **Connect** — Twitter
+5. **Connect** — contact/social badges (Gmail, LinkedIn, Discord, WeChat, Website, Twitter)
 
 ## Content
 
@@ -90,13 +90,38 @@ Keep:
 
 ### Connect
 
-- Twitter: [@Cin_0220](https://twitter.com/Cin_0220)
+Centered row of [awesome-badges](https://github.com/envoy1084/awesome-badges)-style shields (`for-the-badge`). Keep Twitter; add Gmail, LinkedIn, Discord, WeChat, Website.
+
+```md
+<p align="center">
+  <a href="mailto:TODO_EMAIL"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="TODO_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="TODO_DISCORD_URL"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+  <a href="TODO_WECHAT_URL"><img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat"/></a>
+  <a href="TODO_WEBSITE_URL"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/></a>
+  <a href="https://twitter.com/Cin_0220"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+</p>
+```
+
+Replace `TODO_*` with real destinations before shipping the README.
+
+### Notes on destinations
+
+| Badge | Typical link |
+|-------|----------------|
+| Gmail | `mailto:you@example.com` |
+| LinkedIn | profile URL |
+| Discord | invite or user profile URL |
+| WeChat | QR image / contact page URL (plain WeChat ID has no deep link) |
+| Website | personal site URL |
+| Twitter | `https://twitter.com/Cin_0220` (already known) |
 
 ## Out of scope
 
 - WakaTime / lowlighter metrics workflows
 - Extra stats cards (top languages, streak, etc.) unless requested
-- Blog / website link (none set on profile)
+- Blog / website link (none set on profile) — website badge pending user URL
+- Shipping Connect badges without real `TODO_*` destinations
 
 ## Success criteria
 

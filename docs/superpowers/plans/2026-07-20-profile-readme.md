@@ -29,7 +29,7 @@
 - Consumes: design content (About, Skills HTML, Featured Projects, Stats URL, Connect badges)
 - Produces: complete profile `README.md` rendered on `https://github.com/eryue0220`
 
-- [ ] **Step 1: Write the full README**
+- [x] **Step 1: Write the full README**
 
 Replace `README.md` with:
 
@@ -90,7 +90,7 @@ Also contributes to tooling such as [rslint](https://github.com/web-infra-dev/rs
 </p>
 ```
 
-- [ ] **Step 2: Verify README content**
+- [x] **Step 2: Verify README content**
 
 Run: `rg -n "TODO_|webpack-proxy|WakaTime|👋" README.md`  
 Expected: no matches (no placeholders, removed template greeting, no dropped project, no WakaTime)
@@ -98,7 +98,7 @@ Expected: no matches (no placeholders, removed template greeting, no dropped pro
 Run: `rg -n "komarev.com/ghpvc|unplugin-stylex|postcss-go|Cin_0220|skill-icons" README.md`  
 Expected: each pattern matches at least once
 
-- [ ] **Step 3: Commit**
+- [x] **Step 3: Commit**
 
 ```bash
 git add README.md

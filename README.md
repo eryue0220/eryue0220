@@ -27,8 +27,6 @@ Profile views
   <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
   <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="Vite"/>
   <img src="https://img.shields.io/badge/Turborepo-0C0606?style=for-the-badge&logo=turborepo&logoColor=EF4444" alt="Turborepo"/>
-  <img src="https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white" alt="Playwright"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"/>
@@ -38,19 +36,6 @@ Profile views
   <img src="https://img.shields.io/badge/rollup%20js-EC4A3F?style=for-the-badge&logo=rollup.js&logoColor=white" alt="Rollup"/>
   <img src="https://img.shields.io/badge/Sentry-black?style=for-the-badge&logo=Sentry&logoColor=%23362D59" alt="Sentry"/>
 </div>
-
-### Featured Projects
-
-<div align="center">
-  <a href="https://github.com/eryue0220/unplugin-stylex">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eryue0220&repo=unplugin-stylex&theme=dracula" alt="unplugin-stylex" />
-  </a>
-  <a href="https://github.com/eryue0220/postcss-go">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eryue0220&repo=postcss-go&theme=dracula" alt="postcss-go" />
-  </a>
-</div>
-
-Also contributes to [heym](https://github.com/heymrun/heym), and tooling such as [rslint](https://github.com/web-infra-dev/rslint), [eslint-plugin-jest](https://github.com/jest-community/eslint-plugin-jest).
 
 ### GitHub Stats
 

@@ -1,10 +1,12 @@
-### Hi, there
+# Hi, there
 
-I'm **eryue0220**.
+- 👋 I'm **eryue0220**.
 
-💻 I work mainly with **JavaScript / TypeScript / Rust**.
-📚 I'm learning **Go** and **Python**.
-🛠️ I'm currently contributing on [heym](https://github.com/heymrun/heym), [rslint](https://github.com/web-infra-dev/rslint) and more tools I'm interested.
+- 💻 I work mainly with **JavaScript / TypeScript / Rust**.
+- 📚 I'm learning **Go** and **Python**.
+- 🛠️ I'm currently contributing on [heym](https://github.com/heymrun/heym), [rslint](https://github.com/web-infra-dev/rslint) and more tools I'm interested.
+
+Profile views
 
 ![Profile views](https://komarev.com/ghpvc/?username=eryue0220&style=flat-square)
 
@@ -58,10 +60,10 @@ Also contributes to [heym](https://github.com/heymrun/heym), and tooling such as
 
 ### Connect
 
-<p align="center">
+<div align="left">
   <a href="mailto:eryue0220@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a><br>
   <a href="https://www.linkedin.com/in/shigang-chan-7693395b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a><br>
-  <img src="https://img.shields.io/badge/Discord-eryue0220-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: eryue0220" title="Discord: eryue0220"/><br>
+  <img src="https://img.shields.io/badge/Discord-eryue0220-7289DA?style=for-the-badge&logo=discord&logoColor=white" alit="Discord"/><br>
   <a href="https://eryue0220.github.io"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/></a><br>
   <a href="https://twitter.com/Cin_0220"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-</p>
+</div>

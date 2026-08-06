@@ -1,14 +1,12 @@
 # Hi, there
 
+![Profile views](https://komarev.com/ghpvc/?username=eryue0220&style=flat-square)
+
 - 👋 I'm **eryue0220**.
 
 - 💻 I work mainly with **JavaScript / TypeScript / Rust**.
 - 📚 I'm learning **Go** and **Python**.
 - 🛠️ I'm currently contributing on [heym](https://github.com/heymrun/heym), [rslint](https://github.com/web-infra-dev/rslint) and more tools I'm interested.
-
-Profile views
-
-![Profile views](https://komarev.com/ghpvc/?username=eryue0220&style=flat-square)
 
 ### Skills
 

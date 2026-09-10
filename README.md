@@ -11,7 +11,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=eryue0220&style=for-the-badge&color=8B5CF6&label=Profile+Views" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/eryue0220?style=for-the-badge&color=8B5CF6&logo=github&logoColor=white&label=Followers" alt="Followers" />
-  <img src="https://img.shields.io/badge/GitHub%20since-2011-181717?style=for-the-badge&logo=github&logoColor=white" alt="Github Since">
+  <img src="https://img.shields.io/badge/GitHub%20since-2012-181717?style=for-the-badge&logo=github&logoColor=white" alt="Github Since">
   <a href="https://github.com/postcss-go/postcss-go">
   <img src="https://img.shields.io/badge/postcss--go-Maintainer-22C55E?style=for-the-badge&logo=github&logoColor=white" alt="Postcss-Go" />
   </a>

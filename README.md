@@ -6,11 +6,19 @@
 - 📚 I'm learning **Go** and **Python**.
 - 🛠️ I'm currently contributing on [heym](https://github.com/heymrun/heym), [rslint](https://github.com/web-infra-dev/rslint) and more tools I'm interested.
 
-Profile views
 
-![Profile views](https://komarev.com/ghpvc/?username=eryue0220&style=flat-square)
+## Glance
 
-### Skills
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=eryue0220&style=for-the-badge&color=8B5CF6&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/eryue0220?style=for-the-badge&color=8B5CF6&logo=github&logoColor=white&label=Followers" alt="Followers" />
+  <img src="https://img.shields.io/badge/GitHub%20since-2011-181717?style=for-the-badge&logo=github&logoColor=white" alt="Github Since">
+  <a href="https://github.com/postcss-go/postcss-go">
+  <img src="https://img.shields.io/badge/postcss--go-Maintainer-22C55E?style=for-the-badge&logo=github&logoColor=white" alt="Postcss-Go" />
+  </a>
+</div>
+
+## Skills
 
 <div align="center">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
@@ -37,13 +45,13 @@ Profile views
   <img src="https://img.shields.io/badge/Sentry-black?style=for-the-badge&logo=Sentry&logoColor=%23362D59" alt="Sentry"/>
 </div>
 
-### GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="./metrics.languages.svg" alt="Most used languages" />
 </div>
 
-### Connect
+## Connect
 
 <div align="center">
   <a href="mailto:eryue0220@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a><br>

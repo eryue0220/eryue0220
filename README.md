@@ -1,7 +1,5 @@
 # Hi, there
 
-![Profile views](https://komarev.com/ghpvc/?username=eryue0220&style=flat-square)
-
 - 👋 I'm **eryue0220**.
 
 - 💻 I work mainly with **JavaScript / TypeScript / Rust**.

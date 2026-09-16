@@ -21,11 +21,11 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="302.90700815907496" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="302.90700815907496" y="0" width="80.0648403306857" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="382.9718484897606" y="0" width="56.50618684821959" height="8" fill="#fcb32c"/>
-                    <rect mask="url(#languages-bar)" x="439.4780353379802" y="0" width="17.744637164316202" height="8" fill="#ff5a03"/>
-                    <rect mask="url(#languages-bar)" x="457.2226725022964" y="0" width="2.777327497703572" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="296.0731229017695" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="296.0731229017695" y="0" width="78.25849740290158" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="374.3316203046711" y="0" width="61.68212066518786" height="8" fill="#fcb32c"/>
+                    <rect mask="url(#languages-bar)" x="436.013740969859" y="0" width="20.850130658620483" height="8" fill="#ff5a03"/>
+                    <rect mask="url(#languages-bar)" x="456.86387162847944" y="0" width="3.136128371520554" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -38,7 +38,7 @@
                             </div>
                             <small>
                                 <div>280 kB</div>
-                                <div>65.85%</div>
+                                <div>64.36%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -49,8 +49,8 @@
                                 MDX
                             </div>
                             <small>
-                                <div>52.2 kB</div>
-                                <div>12.28%</div>
+                                <div>58.4 kB</div>
+                                <div>13.41%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -61,8 +61,8 @@
                                 Other
                             </div>
                             <small>
-                                <div>2.57 kB</div>
-                                <div>0.6%</div>
+                                <div>2.97 kB</div>
+                                <div>0.68%</div>
                             </small>
                         </div>
                     </section>
@@ -76,7 +76,7 @@
                             </div>
                             <small>
                                 <div>74 kB</div>
-                                <div>17.41%</div>
+                                <div>17.01%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -87,8 +87,8 @@
                                 Astro
                             </div>
                             <small>
-                                <div>16.4 kB</div>
-                                <div>3.86%</div>
+                                <div>19.7 kB</div>
+                                <div>4.53%</div>
                             </small>
                         </div>
                     </section>
